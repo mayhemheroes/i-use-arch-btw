@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-i-use-arch-btw
+project: i-use-arch-btw
 target: i-use-arch-btw
 
 cmds:
-  - cmd: /repo/build/i-use-arch-btw @@
+  - cmd: /repo/build/i-use-arch-btw /test.archbtw
     filepath: /test.archbtw
