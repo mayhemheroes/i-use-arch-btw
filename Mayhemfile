@@ -2,5 +2,4 @@ project: i-use-arch-btw
 target: i-use-arch-btw
 
 cmds:
-  - cmd: /repo/build/i-use-arch-btw /test.archbtw
-    filepath: /test.archbtw
+  - cmd: /install/bin/i-use-arch-btw @@
